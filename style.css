@@ -5,4 +5,28 @@
     text-decoration: none;
     margin: 0;
     padding: 0;
+    text-align: center;
+}
+
+body{
+    padding: 50px;
+}
+
+img{
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.cover{
+    width: 80%;
+    height: 600px;
+    border: 2px solid;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+section{
+    border: 2px solid;
+    padding: 20px;
 }
