@@ -8,3 +8,27 @@
     text-align: center;
 }
 
+.main{
+    width: 90%;
+    padding: 30px;
+    background-color: rgb(191, 227, 239);
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 2px lightgray;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.cover{
+    background-color: azure;
+    width: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text{
+    width: 250px;
+    margin: 0 auto;
+}
