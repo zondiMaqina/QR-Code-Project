@@ -1,0 +1,8 @@
+*{
+    text-transform: capitalize;
+    font: 1em sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
