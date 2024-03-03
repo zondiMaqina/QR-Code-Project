@@ -42,10 +42,36 @@ a:nth-child(2){
     color: darkgoldenrod;
 }
 
-footer{
+.attribution{
     background-color: azure;
     padding: 20px;
     width: fit-content;
     margin: 0 auto;
     border-radius: 10px;
+}
+
+@media screen and (max-width:905px){
+
+    .main{
+        background-color: white;
+        box-shadow: none;
+        border-radius: none;
+        width: 100%;
+    }
+
+    .cover{
+        padding: 20px;
+    }
+    img{
+        width: 240px;
+        height: 240px;
+    }
+
+    .text{
+        width: 290px;
+    }
+
+    .attribution{
+        margin: 0 auto;
+    }
 }
